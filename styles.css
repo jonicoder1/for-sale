@@ -42,7 +42,9 @@ img {
 }
 
 .card .text {
-    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
 }
 
 .card .images .small-photo {
@@ -74,3 +76,8 @@ img {
     margin: 0 auto;
 }
 
+
+.email {
+    margin-top: auto;
+    padding-left: 10px;
+}

@@ -17,10 +17,14 @@ for (let i = 0; i < product_name.length; i++) {
             </div>
             <div class="text">
                 <h3 class="price">${product_name[i].price}</h3>
-                <h4 class="description">${product_name[i].description}</h4>
-                <a href="mailto:jogupersonnel@gmail.com"><h4>email me about this product</h4></a>
+                <h4 class="used">${product_name[i].used}</h4>
+                <h4 class="description">${product_name[i].description}</h4> 
+            </div>
+            <div class="email">
+                <h4><a href="mailto:jogupersonnel@gmail.com">email me about this product</a></h4>
             </div>
         </div>
+        
     `;
     products.innerHTML = products.innerHTML + innerHTML;
 }
