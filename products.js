@@ -5,8 +5,8 @@ let product_name = [
         img_url2: "images/for_sale_yes/Alfa_Network/IMG_2867-min.JPG", 
         img_url3: "images/for_sale_yes/Alfa_Network/IMG_2874-min.JPG", 
         img_url4: "images/for_sale_yes/Alfa_Network/IMG_2871-min.JPG", 
-        price: '$' + 49, 
-        description: "AWUS036NH 802.11 b/g/n Long-Range USB Adapter 5db Antenna",
+        price: '$' + 24, 
+        description: "AWUS036NH 802.11 b/g/n Long-Range USB Adapter 5db Antenna. Superior Wi-Fi Performance Professionally Tuned Wireless, Better Range & CoverageIncreased Bandwidth, More Applications Increased Wireless Signal Penetration",
         used: "used"
     },
     {

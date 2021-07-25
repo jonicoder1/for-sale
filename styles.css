@@ -7,8 +7,12 @@ html {
 }
 
 h1 {
-    margin: 50px;
+    margin: 30px;
     text-align: center;
+}
+
+h4 {
+    margin: 10px 0;
 }
 
 html {
@@ -65,6 +69,8 @@ img {
 .card .images .small-photo .product_sm {
     border: 2px solid grey;
     width: 33.33%;
+    object-fit: cover;
+    height: 100px;
 }
 
 .products {
@@ -80,4 +86,8 @@ img {
 .email {
     margin-top: auto;
     padding-left: 10px;
+}
+
+.align-center {
+    text-align: center;
 }
