@@ -21,7 +21,7 @@ for (let i = 0; i < product_name.length; i++) {
                 <h4 class="description">${product_name[i].description}</h4> 
             </div>
             <div class="email">
-                <h4><a href="mailto:jogupersonnel@gmail.com">email me about this product</a></h4>
+                <h4><a href="mailto:jogucareers@gmail.com">email me about this product</a></h4>
             </div>
         </div>
         
