@@ -1,10 +1,8 @@
-
-let products = document.querySelector('.products');
-let innerHTML = '';
-
+let products = document.querySelector(".products");
+let innerHTML = "";
 
 for (let i = 0; i < product_name.length; i++) {
-    innerHTML = `
+  innerHTML = `
         <div class="card">
             <div class="images">
             <h2 class="product-name">${product_name[i].name}</h2>
@@ -26,6 +24,5 @@ for (let i = 0; i < product_name.length; i++) {
         </div>
         
     `;
-    products.innerHTML = products.innerHTML + innerHTML;
+  products.innerHTML = products.innerHTML + innerHTML;
 }
-
