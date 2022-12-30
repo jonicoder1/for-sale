@@ -31,16 +31,6 @@ let product_name = [
     used: "used",
   },
   {
-    name: "Levi's Shoes",
-    img_url1: "images/for_sale_yes/Levis_Shoes/Levi's_shoes1.jpg",
-    img_url2: "images/for_sale_yes/Levis_Shoes/Levi's_shoes2.jpg",
-    img_url3: "images/for_sale_yes/Levis_Shoes/Levi's_shoes3.jpg",
-    img_url4: "images/for_sale_yes/Levis_Shoes/Levi's_shoes4.jpg",
-    price: "$" + 29,
-    description: "Levi's Shoes",
-    used: "used",
-  },
-  {
     name: "Tripod Dolica",
     img_url1: "images/for_sale_yes/Tripod/tripod4.jpeg",
     img_url2: "images/for_sale_yes/Tripod/tripod2.jpeg",
